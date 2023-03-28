@@ -2,7 +2,7 @@ import os
 import openai
 
 # Set the OpenAI API key from the environment variable
-openai.api_key = "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"
+openai.api_key = ""
 
 def prompt_user():
     """
